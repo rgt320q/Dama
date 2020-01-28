@@ -1,0 +1,9 @@
+C:\Users\cetin\source\repos\Dama\Dama\bin\Debug\Dama.exe.config
+C:\Users\cetin\source\repos\Dama\Dama\bin\Debug\Dama.exe
+C:\Users\cetin\source\repos\Dama\Dama\bin\Debug\Dama.pdb
+C:\Users\cetin\source\repos\Dama\Dama\obj\Debug\Dama.csprojAssemblyReference.cache
+C:\Users\cetin\source\repos\Dama\Dama\obj\Debug\Dama.Form1.resources
+C:\Users\cetin\source\repos\Dama\Dama\obj\Debug\Dama.Properties.Resources.resources
+C:\Users\cetin\source\repos\Dama\Dama\obj\Debug\Dama.csproj.GenerateResource.cache
+C:\Users\cetin\source\repos\Dama\Dama\obj\Debug\Dama.exe
+C:\Users\cetin\source\repos\Dama\Dama\obj\Debug\Dama.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dama", "Dama\Dama.csproj", "{58EC1647-D577-42B7-841A-B16AB70A80AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{D25570BD-66F1-4A6D-9D7A-007D5A123F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58EC1647-D577-42B7-841A-B16AB70A80AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EC1647-D577-42B7-841A-B16AB70A80AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EC1647-D577-42B7-841A-B16AB70A80AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EC1647-D577-42B7-841A-B16AB70A80AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25570BD-66F1-4A6D-9D7A-007D5A123F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25570BD-66F1-4A6D-9D7A-007D5A123F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25570BD-66F1-4A6D-9D7A-007D5A123F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25570BD-66F1-4A6D-9D7A-007D5A123F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2A22830-EF90-4484-A787-D4DAF4796B60}
+	EndGlobalSection
+EndGlobal
